@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 ## 🌐 Live Website
 
 You can view the live version here:  
-👉 [talktovic.carrd.co](https://talktovic.carrd.co)
+👉 https://itsmoriokivich.github.io/Hackathon-1-Submission-Portfolio-Website-/#about
 
 ---
 
