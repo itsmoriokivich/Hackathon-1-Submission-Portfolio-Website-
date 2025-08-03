@@ -40,14 +40,6 @@ You can view the live version here:
 - **Google Fonts** – Montserrat font family
 - **No frameworks**, **No JavaScript**, **No libraries** – 100% handcrafted with HTML and CSS
 
----
-
-## 📷 Preview
-
-![Portfolio Screenshot](preview-image.png)  
-> *(Optional: Replace with an actual screenshot of your site)*
-
----
 
 ## 📩 Contact
 
