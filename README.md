@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 ## 🌐 Live Website
 
 You can view the live version here:  
-👉 https://itsmoriokivich.github.io/Hackathon-1-Submission-Portfolio-Website-/#about
+👉 https://itsmoriokivich.github.io/Hackathon-1-Submission-Portfolio-Website-
 
 ---
 
@@ -18,6 +18,8 @@ You can view the live version here:
 - 🧠 Clear structure for easy navigation: Home, About, Skills, Projects, Contact
 - 📲 Fully responsive layout for both desktop and mobile
 - 🔗 “Contact Me” button that links to my detailed contact info hosted on Carrd
+
+  **NB:** The Download CV button is empty, thus no file to download
 
 ---
 
